@@ -32,6 +32,20 @@ A good way to start raising awareness is to clearly explain that the more charac
 
 In training, we can teach people to create their own name as a porn actor/actress. It's very easy, just think of the name of your first pet and the street (or surname of the street) you lived on when you had that pet. From there you will come up with thousands of combinations, probably including names like :
 
+* Tobi Del Prado
+* Luna Castellana
+* Kira Princesa
+* Max Corrida
+* Cocky Alcalá
+
+If we add uppercase, lowercase, special characters and some numbers to these names, we will generate longer and much more secure passwords (until they appear in the next Rockyou.txt). 
+
+For the curious, my porn name should be 'Milky Garcia' and I haven't used it in a password yet.
+
+
+
+
+
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
