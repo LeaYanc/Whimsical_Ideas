@@ -8,7 +8,6 @@ tags:
 - Passwords
 - Training
 ---
-# Your porn name could be your next password 
 
 Password theft increases the number of passwords available for dictionary attacks. Although many people believe they have created infallible and untraceable passwords, such as
 
