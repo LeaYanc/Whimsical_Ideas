@@ -1,7 +1,7 @@
 ---
 title: Your porn name could be your next password 
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "/assets/images/porname.png"
 description: A simple idea to make your audience create unique, long and memorable passwords.
 tags:
 - Cybersecurity
@@ -21,6 +21,7 @@ Password theft increases the number of passwords available for dictionary attack
 * GazpachoAndaluz
 
 All these examples are already included in the notorious Rockyou.txt, which is used by hackers and cybercriminals alike and contains almost all the most common passwords. You just have to search for it in [cybernews](https://cybernews.com/password-leak-check/)
+
 
 Out of sheer inertia, convenience, laziness or whatever you want to call it, humans are creatures of habit. We have all used the same passwords on different sites without giving them a second thought. Many people are unaware that even if their passwords are private and have never been shared with anyone, they may already be out there on the web, unknowingly giving access to the resources of the company they work for or their social networks.
 
