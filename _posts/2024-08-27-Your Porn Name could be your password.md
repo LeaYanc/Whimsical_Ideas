@@ -21,7 +21,7 @@ Password theft increases the number of passwords available for dictionary attack
 * MaradonaD10S
 * GazpachoAndaluz
 
-All these examples are already included in the notorious Rockyou.txt, which is used by hackers and cybercriminals alike and contains almost all the most common passwords. You just have to search for it: https://lnkd.in/dpaa78kU
+All these examples are already included in the notorious Rockyou.txt, which is used by hackers and cybercriminals alike and contains almost all the most common passwords. You just have to search for it: (https://cybernews.com/password-leak-check/)
 
 Out of sheer inertia, convenience, laziness or whatever you want to call it, humans are creatures of habit. We have all used the same passwords on different sites without giving them a second thought. Many people are unaware that even if their passwords are private and have never been shared with anyone, they may already be out there on the web, unknowingly giving access to the resources of the company they work for or their social networks.
 
