@@ -1,7 +1,7 @@
 ---
 title: Your porn name could be your next password 
 layout: post
-post-image: "/assets/images/porname.png"
+post-image: "assets/images/porname.png"
 description: A simple idea to make your audience create unique, long and memorable passwords.
 tags:
 - Cybersecurity
