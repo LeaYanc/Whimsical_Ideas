@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 layout: post
-post-image: "https://https://leayanc.github.io/Whimsical_Ideas/assets/images/porname.png"
+post-image: "/Whimsical_Ideas/assets/images/nonews.png"
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
