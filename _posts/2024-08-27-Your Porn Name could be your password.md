@@ -9,7 +9,8 @@ tags:
 - Training
 ---
 
-Password theft increases the number of passwords available for dictionary attacks. Although many people believe they have created infallible and untraceable passwords, such as
+### Password theft increases the number of passwords available for dictionary attacks. 
+Although many people believe they have created infallible and untraceable passwords, such as
 
 * uruguaycampeon
 * RealMadrid@1
