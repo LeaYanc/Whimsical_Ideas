@@ -32,8 +32,10 @@ In this way, users can use passwords they can easily remember, but hardened with
 ## Proof of concept
 With the [Bitwarden](https://bitwarden.com/password-strength/) password strenght testing tool 
 
-I tested some weak passwords that have been hardened with the script:
+I tested some weak passwords that have been hardened with the script: 
+
 ![Spanish ñ](https://github.com/LeaYanc/passw_espa/raw/main/images/Prompt.png)
+
 
 And it added an extra layer of complexity to the given password.
 
