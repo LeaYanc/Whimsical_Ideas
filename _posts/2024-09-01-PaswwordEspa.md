@@ -1,7 +1,7 @@
 ---
 title: A Python script to harden passwords with Spanish characters
 layout: post
-post-image: "https://github.com/LeaYanc/passw_espa/raw/main/images/laenie.jpg"
+post-image: "https://github.com/LeaYanc/passw_espa/raw/main/images/Passwordes.png"
 description: My first Python project. A small script that helps users to find a better way to harden their day to day passwords.
 tags:
 - Python
