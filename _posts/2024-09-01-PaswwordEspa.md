@@ -2,7 +2,7 @@
 title: A Python script to harden passwords with Spanish characters
 layout: post
 post-image: "https://github.com/LeaYanc/passw_espa/raw/main/images/Passwordes.png"
-description: My first Python project. A small script that helps users to find a better way to harden their day to day passwords.
+description: My first Python project. A small script to help users find a better way to secure their everyday passwords.
 tags:
 - Python
 - Passwords
@@ -32,7 +32,7 @@ In this way, users can use passwords they can easily remember, but hardened with
 ## Proof of concept
 With the [Bitwarden](https://bitwarden.com/password-strength/) password strenght testing tool 
 
-I tested some weak passwords that have been hardened with the script: 
+I tested some weak passwords that have been hardened with the script:
 
 ![Spanish ñ](https://github.com/LeaYanc/passw_espa/raw/main/images/Prompt.png)
 
