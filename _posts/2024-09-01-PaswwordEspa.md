@@ -1,5 +1,5 @@
 ---
-title: A Python script that helps harden passwords with a Spanish characters
+title: A Python script that helps harden passwords with Spanish characters
 layout: post
 post-image: "https://github.com/LeaYanc/passw_espa/raw/main/images/laenie.jpg"
 description: My first Python project. A small script that helps users to find a better way to harden their day to day passwords.
@@ -9,10 +9,10 @@ tags:
 - Hardening
 - Spanish
 ---
-https://github.com/LeaYanc/passw_espa
 
 # Password Complexity Españolizer
 
+https://github.com/LeaYanc/passw_espa
 
 Remembering randomly generated passwords is too complex for most people, unless you use a password manager. 
 Most people like to use passwords that are easy to remember. 
