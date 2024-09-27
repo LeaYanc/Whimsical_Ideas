@@ -1,7 +1,7 @@
 - name: Password Españolizer
   link: https://github.com/LeaYanc/passw_espa
   image: https://github.com/LeaYanc/passw_espa/raw/main/images/laenie.jpg
-  description: A Python script that replaces some letters and symbols of traditional passwords with characters commonly found on Spanish keyboards.
+  description: A Python script to harden passwords using Spanish characters.
 - name: Upcoming Project
   link:
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
